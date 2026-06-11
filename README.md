@@ -19,6 +19,19 @@ The goal of the repo is simple: use each day as a small, focused exercise so the
 3. Refactor the solution after it works.
 4. Move to the next day and keep the momentum consistent.
 
+## Available Days
+
+- [Day 01](day-01/README.md)
+- [Day 02](day-02/README.md)
+- [Day 03](day-03/README.md)
+- [Day 04](day-04/README.md)
+- [Day 05](day-05/README.md)
+- [Day 06](day-06/README.md)
+- [Day 07](day-07/README.md)
+- [Day 08](day-08/README.md)
+- [Day 09](day-09/README.md)
+- [Day 10](day-10/README.md)
+
 ## Repository Purpose
 
 This repo can be used as:
